@@ -77,6 +77,3 @@ GitHub :
 
 ## 📌 Prochaines étapes
 
-- Ajouter une UI pour afficher les diamants collectés
-- Ajouter des effets visuels (particules, son)
-- Créer un objectif de jeu : score, déblocage, quêtes...
